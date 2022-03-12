@@ -290,6 +290,7 @@ img {
 
     #left {
         flex-direction: row;
+        width: 100%;
     }
     
     #dashboard {
