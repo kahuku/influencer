@@ -81,7 +81,7 @@ export default {
 }
 
 .Instagram {
-  color: purple;
+  color: #bc2a8d;
 }
 
 .TikTok {
@@ -100,8 +100,9 @@ export default {
 }
 
 .post img {
-  width: 250px;
+  max-width: 250px;
   object-fit: cover;
+  max-width: 100%;
 }
 
 .post .image {

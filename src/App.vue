@@ -125,6 +125,13 @@ nav a.router-link-exact-active {
 @media only screen and (max-width: 768px){
   #footer {
     flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .foot-seperator {
+    border: none;
+    height: 0px;
   }
 }
 </style>

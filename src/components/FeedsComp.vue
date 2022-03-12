@@ -55,4 +55,15 @@ export default {
 .feed {
   width: 25%;
 }
+
+@media only screen and (max-width: 768px) {
+  #feeds {
+    flex-direction: column;
+    justify-items: center;
+  }
+
+  .feed {
+    width: 80%;
+  }
+}
 </style>
